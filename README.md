@@ -14,7 +14,7 @@ Bienvenue sur le dépôt GitHub de **Snake Game** ! Ce projet est une version mo
 ## 🖼️ Captures d'Écran
 
 ### Menu Principal
-![Menu Principal](ScreenShot/ScreenShot_menu.png)
+![Menu Principal](ScreenShot/ScreenShot_Menu.png)
 
 ### En Jeu  
 ![En Jeu](ScreenShot/ScreenShot_play.png)
